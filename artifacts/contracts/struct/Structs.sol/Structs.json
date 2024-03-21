@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Structs",
+  "sourceName": "contracts/struct/Structs.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212200f088a07a07d7bf846ca24d352f8cbdb8df267657f54671179c5e9edefb2248264736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212200f088a07a07d7bf846ca24d352f8cbdb8df267657f54671179c5e9edefb2248264736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
